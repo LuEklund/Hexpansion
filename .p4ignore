@@ -1,0 +1,24 @@
+# User-specific folders or temporary files that should not be versioned.
+Saved/
+DerivedDataCache/
+FileOpenOrder/
+obj/
+.idea/
+Intermediate/
+.vsconfig
+Build/
+Binaries/
+
+# Certain file types that should not be versioned.
+*.pdb
+*-Debug.*
+
+# Ignore the specific file RGPrototype.sln
+RGPrototype.sln
+# Ignore files starting with RGPrototype.sln and followed by any characters
+RGPrototype.sln*
+
+
+# Visual Studio user settings files that should be ignored.
+.vs/
+.vscode
