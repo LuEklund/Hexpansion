@@ -1,5 +1,12 @@
 Hexpansion is a tower defense game built in the summer of 2024.
 
+![](Example.png)
+
+If you wish to play the game without compiling it, please use the link below:
+[Released game at itch io](https://fingrevie.itch.io/hextd-prototype)
+
+
+
 Our team included:
 
 
@@ -18,5 +25,3 @@ You can see bloopers and insights into your game development journey by followin
 The game was built using Unreal Engine 5.3. In order to compile this game, Unreal Engine and its dependencies need to be installed, more about the installation process can be found here:
 [How to Install Unreal Engine Documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/installing-unreal-engine)
 
-If you wish to play the game without compiling it, please use the link below:
-[Released game at itch io](https://fingrevie.itch.io/hextd-prototype)
