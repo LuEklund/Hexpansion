@@ -1,5 +1,8 @@
 Hexpansion is a tower defense game built in the summer of 2024.
 
+![](Example.png)
+
+
 Our team included:
 
 
